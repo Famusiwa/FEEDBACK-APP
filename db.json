@@ -1,9 +1,14 @@
 {
   "feedback": [
     {
-      "id": "7888",
-      "text": "Another testing phase",
-      "rating": 6
+      "id": "ca06",
+      "text": "The review for the price is preferable",
+      "rating": 4
+    },
+    {
+      "text": "It another testing phase of the feedback ",
+      "rating": 6,
+      "id": "1445"
     }
   ]
 }
